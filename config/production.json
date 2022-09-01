@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://uriel:urielpost@cluster0.l9vtzmc.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "a9bbd9041ff5b330fd77",
+  "githubSecret": "6a5ba48d852141f8592116b889a34e235d41c082"
+}
